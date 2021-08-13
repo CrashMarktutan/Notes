@@ -26,4 +26,3 @@ Linear and angular velocity v = rω
 Time of rotation period T = 2πr/v = 2π/ω
 
 Centripetal force F = mv2/r = mω2r
-hi
