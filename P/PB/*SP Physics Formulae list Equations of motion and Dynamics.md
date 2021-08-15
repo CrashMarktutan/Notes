@@ -3,6 +3,8 @@ Formulae list
 Some of these formulae should be memorised during your higher level course but the list covers a great deal more than is needed for a simple extension to the foundation course. It is most important that you are sure of the meaning of all the symbols
 
 Equations of motion
+
+
 s = vt
 
 v = u + at
@@ -14,6 +16,8 @@ s = ut + ½ at2
 average vel. = [u + v]/2
 
 Dynamics
+
+
 Momentum M = mv
 
 Impulse I = Ft
