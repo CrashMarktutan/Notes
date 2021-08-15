@@ -1,6 +1,8 @@
 This is a shortened list of formulae that you might need for the first year of your advanced Physics course. For a fuller list please use the Formulae list.
 
 Quantity																																							Formula
+
+
 Acceleration	Acceleration = change of speed/Time taken = Δv/Δt
 
 de Broglie equation	Wavelength of a particle (λ) = h/mv
