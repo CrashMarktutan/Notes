@@ -1,4 +1,6 @@
 Rotational dynamics
+
+
 Moment of inertia (I) = Σmr2
 
 Angular momentum (M) = Iω
@@ -10,6 +12,8 @@ Couple (C) = Iα
 Work done W = Cθ
 
 Simple harmonic motion
+
+
 Acceleration a = -ω2 x
 
 Displacement x = rsin(ωt)
@@ -27,6 +31,8 @@ Potential energy = ½ mω2x2
 Total energy E = ½ mω2r2
 
 Gravitation
+
+
 Kepler's third law T2/r3 = constant
 
 Newton's law F = Gm1m2/d2
