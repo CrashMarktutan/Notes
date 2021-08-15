@@ -3,65 +3,150 @@ This is a shortened list of formulae that you might need for the first year of y
 Quantity																																							Formula
 
 
-Acceleration	Acceleration = change of speed/Time taken = Δv/Δt
+Acceleration	
 
-de Broglie equation	Wavelength of a particle (λ) = h/mv
+Acceleration = change of speed/Time taken = Δv/Δt
 
-Density	Density (ρ) = mass/volume
+de Broglie equation	
 
-Double slit interference	Wavelength (λ) = slit separation (a) x fringe width 9x)/D
+Wavelength of a particle (λ) = h/mv
 
-Electric current	Current (I) = charge/time = ΔQ/Δt
+Density	
 
-Electrical energy	Energy = VIt
+Density (ρ) = mass/volume
 
-Electrical resistance	R = voltage/current = V/I
+Double slit interference	
 
-Force (F)	F = mass (m) x acceleration (a)
+Wavelength (λ) = slit separation (a) x fringe width 9x)/D
 
-Force on a current in a magnetic field	F = BIL sinθ
+Electric current	
 
-Gravitational potential energy	Gravitational potential energy = mgh
+Current (I) = charge/time = ΔQ/Δt
 
-Kinetic energy	Kinetic energy = 1/2 mv2
+Electrical energy	
 
-Moment of a force	Moment = Force x distance of line of action of force from pivot
+Energy = VIt
 
-Momentum	Momentum = mass x velocity
+Electrical resistance	
 
-Photoelectric effect	hf = Φ + 1/2 mv2
+R = voltage/current = V/I
 
-Photon energy	Energy (E) = Planck's constant (h) x Frequency (f)
+Force (F)	
 
-Potential difference	V = W/Q = energy/charge = power/current
+F = mass (m) x acceleration (a)
 
-Power	Power = work done/time taken
+Force on a current in a magnetic field	
 
-Power (electrical)	Power = VI = I2R = V2/R
+F = BIL sinθ
 
-Pressure	P = Force/area
+Gravitational potential energy	
 
-Refractive index	Refractive index = sin i/sin r = ci/cr
+Gravitational potential energy = mgh
 
-Resistivity	Resistivity (ρ) = RA/L
+Kinetic energy	
 
-Resistors in parallel	1/R = 1/R1 + 1/R2
+Kinetic energy = 1/2 mv2
 
-Resistors in series	R = R1 + R2
-Speed	Speed = distance travelled/time taken
+Moment of a force	
 
-Strain	Strain (ε) = extension/original length
+Moment = Force x distance of line of action of force from pivot
 
-Stress	Stress (σ) = force/area
+Momentum	
 
-Torque of a couple	Torque = force (one) x distance between forces
+Momentum = mass x velocity
 
-Uniformly accelerated motion	s = ut + 1/2 at2     v2 = u2 + 2as
+Photoelectric effect	
 
-Wave speed	Wave speed = frequency (f) x wavelength (λ)
+hf = Φ + 1/2 mv2
 
-Weight	Weight = mg
+Photon energy	
 
-Work done	Work = force x distance
+Energy (E) = Planck's constant (h) x Frequency (f)
+
+Potential difference	
+
+V = W/Q = energy/charge = power/current
+
+Power	
+
+Power = work done/time taken
+
+Power (electrical)	
+
+Power = VI = I2R = V2/R
+
+Pressure	
+
+P = Force/area
+
+
+Refractive index	
+
+Refractive index = sin i/sin r = ci/cr
+
+
+Resistivity	
+
+
+Resistivity (ρ) = RA/L
+
+
+Resistors in parallel	
+
+1/R = 1/R1 + 1/R2
+
+
+Resistors in series	
+
+
+R = R1 + R2
+
+
+Speed	
+
+
+Speed = distance travelled/time taken
+
+
+Strain	
+
+
+Strain (ε) = extension/original length
+
+
+Stress	
+
+
+Stress (σ) = force/area
+
+
+Torque of a couple	
+
+
+Torque = force (one) x distance between forces
+
+
+Uniformly accelerated motion	
+
+
+s = ut + 1/2 at2     v2 = u2 + 2as
+
+
+Wave speed	
+
+
+Wave speed = frequency (f) x wavelength (λ)
+
+
+Weight	
+
+
+Weight = mg
+
+Work done	
+
+
+Work = force x distance
+
 
 Young modulus	E = longitudinal stress/longitudinal strain = FL/eA
