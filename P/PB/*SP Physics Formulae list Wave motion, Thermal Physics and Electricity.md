@@ -1,4 +1,5 @@
 Wave motion
+
 Doppler effect Δλ = λv/c Δf = fv/c
 
 Travelling wave y = a sin[ωt – kx] = a sin2π[t/T – x/λ]
@@ -16,11 +17,13 @@ Intensity of wave I = ka2
 Beat frequency f = f1 – f2
 
 Organ pipes:
+
 Open pipe f = (m + 1)fo
 
 Closed at one end f = (2m + 1)fo
 
 Thermal Physics
+
 Scale of temperature t/100 = (Ft – F0)/(F100 – F0)
 
 Linear expansivity (α) Lθ = L0[1 + αθ]
@@ -57,6 +60,7 @@ Mean square velocity (crms)2 = v[u12 + u22 + …. + un2]/n
 
 
 Electricity
+
 Charge Q = It
 
 Current I = nAve
