@@ -16,24 +16,20 @@ PCMechanics -->
 
 PCHeat and Thermodynamics -->
 
-
 1)Thermal Physics
 
 PCElectromagnetism -->
-
 
 1)Static Electricity
 2)Electric Circuits
 
 PCSound and Wave Motion -->
 
-
 1)Vibrations and Waves
 
 2)Sound Waves and Music
 
 PCOptics -->
-
 
 1)Light Waves and Color
 
