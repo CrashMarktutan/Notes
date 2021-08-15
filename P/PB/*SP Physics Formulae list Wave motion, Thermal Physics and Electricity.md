@@ -1,5 +1,6 @@
 Wave motion
 
+
 Doppler effect Δλ = λv/c Δf = fv/c
 
 Travelling wave y = a sin[ωt – kx] = a sin2π[t/T – x/λ]
