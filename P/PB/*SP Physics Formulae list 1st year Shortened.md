@@ -149,4 +149,7 @@ Work done
 Work = force x distance
 
 
-Young modulus	E = longitudinal stress/longitudinal strain = FL/eA
+Young modulus	
+
+
+E = longitudinal stress/longitudinal strain = FL/eA
