@@ -1,14 +1,23 @@
 Wave motion
 Doppler effect Δλ = λv/c Δf = fv/c
+
 Travelling wave y = a sin[ωt – kx] = a sin2π[t/T – x/λ]
+
 Standing wave y = 2a cos[2πx/λ]sin[2πt/T]
+
 Velocity of sound (v) = √[γP/ρ]
+
 Frequency of stretched string fo = (1/2L)√[T/m]1/2
+
 Fundamental frequency (closed tube) fo = v/4L
+
 Intensity of wave I = ka2
+
 Beat frequency f = f1 – f2
+
 Organ pipes:
 Open pipe f = (m + 1)fo
+
 Closed at one end f = (2m + 1)fo
 
 Thermal Physics
