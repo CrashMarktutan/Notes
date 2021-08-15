@@ -1,4 +1,6 @@
 Statics
+
+
 Weight (F) = mg
 
 Pressure (P) = F/A
@@ -11,14 +13,20 @@ Couple (C) = Fd
 
 Upthrust (U) = vρg
 
+
 Projectiles
+
+
 Range (R) = u2sin2A/g
 
 Maximum height (h) = u2sin2A/2g
 
 Time of flight t = 2usinA/g
 
+
 Motion in a circle
+
+
 Angular velocity ω = θ/t
 
 Linear and angular velocity v = rω
