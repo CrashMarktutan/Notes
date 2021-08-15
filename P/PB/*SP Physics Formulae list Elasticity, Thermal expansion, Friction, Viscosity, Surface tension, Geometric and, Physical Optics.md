@@ -1,4 +1,6 @@
 Elasticity
+
+
 Stress   stress = F/A
 
 Strain strain = e/L
@@ -14,12 +16,18 @@ Potential energy stored = ½ Fe = ½ EAe2/L
 Energy per unit volume = ½ stress x strain
 
 Thermal expansion
+
+
 F = EAαθ
 
 Friction
+
+
 Coefficient of friction (μ) F = μR
 
 Viscosity
+
+
 Coefficient of viscosity (η) F = hA x velocity gradient
 
 Stokes' law F = 6πhrv
@@ -27,6 +35,8 @@ Stokes' law F = 6πhrv
 Poiseuille's formula Volume s-1 = πhρgr4/8ηl
 
 Surface tension
+
+
 Capillary rise (h) T cosθ = hrρg/2
 
 Excess pressure in air bubble p = 2T/r
@@ -34,6 +44,8 @@ Excess pressure in air bubble p = 2T/r
 Excess pressure in soap bubble p = 4T/r
 
 Geometrical Optics
+
+
 Refractive index (n) = sin i/sin r = real depth/apparent depth
 
 Related to wave velocities (n) = cm/cv
@@ -53,6 +65,8 @@ Angular magnification   M = - (D/f+ 1)
 Resolving power f = 1.22λ/a
 
 Physical Optics
+
+
 Constructive interference path difference for a maximum = mλ
 
 Destructive interference path difference for a minimum= (2m + 1)λ/2
