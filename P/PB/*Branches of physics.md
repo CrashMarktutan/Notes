@@ -1,4 +1,4 @@
-Physics is divided into two main parts:a
+Physics is divided into two main parts:
 1. Classical Physics
 2. Modern Physics
 
